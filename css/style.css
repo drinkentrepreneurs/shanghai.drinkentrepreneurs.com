@@ -141,8 +141,11 @@ nav a:hover {
 #contact-tab {
   background-image: url("../images/contact.png");
 }
-#lang-tab {
+#cn-tab {
   background-image: url("../images/china.png");
+}
+#en-tab {
+  background-image: url("../images/uk.png");
 }
 
 /******************************************************************************/
