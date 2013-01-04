@@ -54,6 +54,10 @@ h3 {
   font-weight: normal;
 }
 
+iframe {
+  border: 1px solid #cccccc;
+}
+
 section {
   margin: auto;
   background: white;
@@ -233,7 +237,6 @@ nav a:hover {
 }
 
 #about iframe {
-  border: 1px solid #cccccc;
   width: 610px;
   height: 384px; 
 }
@@ -254,6 +257,11 @@ nav a:hover {
 #whenwhere h2 + p {
   font-size: 18px;
   margin-bottom: 35px;
+}
+
+#whenwhere iframe {
+  width: 700px;
+  height: 420px;
 }
 
 #whenwhere iframe + p {
