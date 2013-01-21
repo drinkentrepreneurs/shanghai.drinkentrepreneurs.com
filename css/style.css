@@ -171,6 +171,18 @@ nav a:hover {
   height: 373px;
 }
 
+#cover-poster {
+  position: relative; 
+  background-image: url("../images/cover.jpg");
+  height: 373px;
+}
+
+#cover-poster-cn {
+  position: relative; 
+  background-image: url("../images/cover_chinese.jpg");
+  height: 373px;
+}
+
 #weibo-link {
   background-image: url("../images/weibo.png"); 
   display: inline-block; 
