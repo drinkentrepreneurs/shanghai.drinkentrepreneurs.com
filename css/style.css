@@ -271,14 +271,11 @@ nav a:hover {
   text-align: justify;  
   padding-left: 120px;
   padding-right: 120px;
+  margin-bottom: 35px;
 }
 
-#whenwhere h2 + p {
-  padding-top: 40px;
-}
 
 #whenwhere iframe {
-  margin-top: 35px;
   width: 700px;
   height: 420px;
 }
