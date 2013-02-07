@@ -373,6 +373,7 @@ footer {
   background: -o-linear-gradient(#48C5FA, #1788D4);
   background: linear-gradient(#48C5FA, #1788D4);
   border-color: #34BFF3 rgba(0, 0, 0, 0.1) #0568A6;
+  color: white;
 }
 
 .pretty-button:active {
@@ -382,4 +383,9 @@ footer {
   background: linear-gradient(#0049A8, #0F8BD6);  
   border-color: #011938 #063E6C #0F6CA0;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3) inset, 0 1px 0 1px rgba(0, 0, 0, 0.1) inset, 0 1px rgba(0, 0, 0, 0.2) inset;
+  color: white;
+}
+
+.pretty-button:link {
+  color: white;
 }
