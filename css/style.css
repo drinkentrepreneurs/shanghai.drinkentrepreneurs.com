@@ -209,6 +209,19 @@ nav a:hover {
   line-height: 30px;
 }
 
+#announcing-text a {
+  text-decoration: none;
+  color: black;
+}
+
+#announcing-text a, a:link, nav a:visited, nav a:active {
+  color: black;
+}      
+#announcing-text a:hover {
+  color: #0E6999;
+  outline: medium none;
+}
+
 #register-button {
   font-family: "agb","helvetica neue", helvetica, arial, sans-serif; 
   padding: 10px 15px;
