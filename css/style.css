@@ -120,16 +120,16 @@ nav li + li {
   border-left: none;
 }
 
-nav a {
+nav > a {
   font-size: 17px; 
   margin-left: 43px; 
   line-height: 2em; 
   font-weight: normal; 
 }      
-nav a, nav a:link, nav a:visited, nav a:active {
+nav > a, nav > a:link, nav > a:visited, nav > a:active {
   color: black;
 }      
-nav a:hover {
+nav > a:hover {
   color: #1492D6;
 }
 
